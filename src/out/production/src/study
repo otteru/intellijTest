@@ -1,0 +1,2 @@
+DIP(Dependency Inversion Principle):
+고수준 모듈은 저수준 모듈의 구현에 의존해서는 안 된다. 저수준 모듈이 고수준 모듈에서 정의한 추상 타입에 의존해야 한다.
